@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Dine & Divide is the perfect solution for those moments when you're out with a friend and want to split the bill seamlessly. Whether it's a cozy dinner or a lively lunch, our app simplifies the process of sharing expenses with your dining partner.
 
-### `npm test`
+Key Features:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Share a Meal: Start by entering the total bill amount. Let's say it's €100 or $100.
 
-### `npm run build`
+Allocate Expenses: Specify your individual expenses within the group bill. For instance, if your part of the meal cost €40, you simply input €40 as your contribution.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Select Your Companion: Choose the friend you're dining with, like Anthony, and allocate their expenses accordingly. In this case, Anthony's share would be €60.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Settle the Bill: Now comes the fun part. Determine who will foot the bill. It could be you or Anthony. Your choice.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Balance Tracking: As the bill payer, the app instantly calculates the owed amount. In this scenario, if you're paying, Anthony owes you €60. If Anthony covers the bill, you owe him €40.
 
-### `npm run eject`
+Stay Even: Keep track of your balances and settle up whenever you want. Dine & Divide ensures that your finances stay even, no matter who pays.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+With Dine & Divide, there's no more need to wrestle with calculations or awkward bill-splitting conversations. Enjoy your meals with friends, and let our app handle the rest. Download Dine & Divide today and make dining out hassle-free!
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
