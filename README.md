@@ -1,6 +1,6 @@
 # Description
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open https://ivicasiranovic.github.io/Dine-Divide/ to view it in your browser.
 
 Dine & Divide is the perfect solution for those moments when you're out with a friend and want to split the bill seamlessly. Whether it's a cozy dinner or a lively lunch, our app simplifies the process of sharing expenses with your dining partner.
 
