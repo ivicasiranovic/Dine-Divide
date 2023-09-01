@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dine-Divide/static/css/main.a4c28843.css",
+    "main.js": "/Dine-Divide/static/js/main.adc08477.js",
+    "index.html": "/Dine-Divide/index.html",
+    "main.a4c28843.css.map": "/Dine-Divide/static/css/main.a4c28843.css.map",
+    "main.adc08477.js.map": "/Dine-Divide/static/js/main.adc08477.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c28843.css",
+    "static/js/main.adc08477.js"
+  ]
+}
