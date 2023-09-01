@@ -1,4 +1,4 @@
-# Description
+# Overview:
 
 Open https://ivicasiranovic.github.io/Dine-Divide/ to view it in your browser.
 
